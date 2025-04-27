@@ -6,9 +6,6 @@ Projects Included
 Sales Analytics Dashboard
 Visualized key sales KPIs including revenue trends, region-wise performance, and product category analysis.
 
-Inventory Management Dashboard
-Tracked stock levels, reorder points, and optimized inventory turnover using dynamic charts and pivot tables.
-
 Tools & Skills Used
 Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting)
 
